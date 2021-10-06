@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.invictum</groupId>
-    <artifactId>serenity-reportportal-integration</artifactId>
-    <version>1.5.8-SNAPSHOT</version>
+    <artifactId>serenity-reportportal-integration-fixed</artifactId>
+    <version>1.5.8.1</version>
 
     <packaging>jar</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <url>https://github.com/Invictum/serenity-reportportal-integration</url>
+    <url>https://github.com/i-vasilev/serenity-reportportal-integration-fixed</url>
     <description>Serenity TAF integration with Report Portal</description>
 
     <licenses>
